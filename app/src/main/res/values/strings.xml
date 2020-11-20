@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">book listing</string>
+    <string name="No_Internet_Connection">No Internet Connection.</string>
+    <!-- Strings for items in activity_main_drawer.xml -->
+    <string name="ic_title_home">Home</string>
+    <string name="ic_title_programming">programming</string>
+    <string name="ic_title_science">Science</string>
+    <string name="ic_title_management">Management</string>
+    <string name="ic_title_environment">Environment</string>
+    <string name="ic_title_society">Society</string>
+    <string name="ic_title_economy">Economy</string>
+    <string name="ic_title_business">Business</string>
+    <string name="ic_title_culture">Culture</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="no_books">No books</string>
+    <string name="no_Internet_connection">No Internet Connection.</string>
+    <string name="book_image">book Image</string>
+    <string name="title">title</string>
+    <string name="author">author</string>
+    <string name="no_result_found">No Result found.</string>
+
+</resources>
